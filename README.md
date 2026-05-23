@@ -1,4 +1,4 @@
-## Hi there! I'm Yann Carvalho! 😁
+## Hi there! I'm Yann Gesteira! 😁
 
 - I’m currently studying Internet Systems at UNIESP College. 🎒
 - Learning Java/Spring, SQL, Python, HTML, CSS e JS. 💭
