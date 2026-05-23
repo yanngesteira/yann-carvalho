@@ -4,14 +4,13 @@
 - Learning Java/Spring, SQL, Python, HTML, CSS e JS. 💭
 - How to reach me? Instagram and LinkedIn. 📮
 
-    ![](https://komarev.com/ghpvc/?username=yann-carvalho&style=plastic)
+    ![](https://komarev.com/ghpvc/?username=yanngesteira&style=plastic)
 
 ## 
-### Contacts:
+### Contact:
 
 <div>
-  <a href="https://instagram.com/yannsoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yanncarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yanncarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
 
 ##
@@ -42,11 +41,11 @@
 ### My stats:
 
 <div>
-  <a href="https://github.com/yann-carvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yann-carvalho&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yann-carvalho&layout=compact&langs_count=16&theme=transparent"/>
+  <a href="https://github.com/yanngesteira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanngesteira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanngesteira&layout=compact&langs_count=16&theme=transparent"/>
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yann-carvalho&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanngesteira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
