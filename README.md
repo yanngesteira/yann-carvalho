@@ -35,17 +35,4 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
-<div/>         
-
-##
-### My stats:
-
-<div>
-  <a href="https://github.com/yanngesteira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanngesteira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanngesteira&layout=compact&langs_count=16&theme=transparent"/>
-</div>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanngesteira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
+<div/>
